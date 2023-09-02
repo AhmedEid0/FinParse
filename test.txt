@@ -1,0 +1,6 @@
+accountID,name,balance
+1,John Doe,1000.0
+2,Jane Smith,2500.0
+3,Robert Johnson,500.0
+4,Lisa Anderson,3000.0
+5,Michael Brown,1500.0
